@@ -5,4 +5,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/visheshp5/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+## Array
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/visheshp5/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Two Pointers
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/visheshp5/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/visheshp5/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Sorting
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/visheshp5/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
