@@ -4,9 +4,8 @@ class Solution {
         xor(nums,0,0);
         return t;
     }
-    public  void xor(int[] nums,int in,int x){
+    void xor(int[] nums,int in,int x){
         t+=x;
-        System.out.println(x);
         for(int i=in;i<nums.length;i++){
             xor(nums,i+1,x^nums[i]);
         }
