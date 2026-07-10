@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/visheshp5/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/visheshp5/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/visheshp5/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Array
