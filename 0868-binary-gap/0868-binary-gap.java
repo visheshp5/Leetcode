@@ -2,21 +2,19 @@ class Solution {
     public int binaryGap(int n) {
         int d=0;
         int max=0;
+        int p=0;
         boolean flag=false;
-        String s=Integer.toBinaryString(n);
-        // while(n>0){
-        //     s.append(n%2);
-        //     n/=2;
-        // }
-        for(int i=0;i<s.length();i++){
-            if(s.charAt(i)=='1'&&flag){
-                max=Math.max(max,i-d);
-                d=i;
+        while(n>0){
+            if(n%2==1&&flag){
+                max=Math.max(max,p-d);
+                d=p;
             }
-            else if(s.charAt(i)=='1'&&flag==false){
-                d=i;
+            else if(n%2==1&&flag==false){
+                d=p;
                 flag=true;
             }
+            n/=2;
+            p++;
         }
         return max;
     }
