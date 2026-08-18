@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/visheshp5/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2643-row-with-maximum-ones](https://github.com/visheshp5/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/visheshp5/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/visheshp5/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/visheshp5/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/visheshp5/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Counting Sort
 |  |
 | ------- |
