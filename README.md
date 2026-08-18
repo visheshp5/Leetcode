@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/visheshp5/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/visheshp5/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/visheshp5/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/visheshp5/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/visheshp5/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/visheshp5/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/visheshp5/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Counting Sort
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/visheshp5/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/visheshp5/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
