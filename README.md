@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/visheshp5/Leetcode/tree/master/0069-sqrtx) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/visheshp5/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/visheshp5/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/visheshp5/Leetcode/tree/master/0069-sqrtx) |
 | [1518-water-bottles](https://github.com/visheshp5/Leetcode/tree/master/1518-water-bottles) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/visheshp5/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/visheshp5/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/visheshp5/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/visheshp5/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
