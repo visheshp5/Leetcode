@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/visheshp5/Leetcode/tree/master/0229-majority-element-ii) |
 | [0905-sort-array-by-parity](https://github.com/visheshp5/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/visheshp5/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/visheshp5/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/visheshp5/Leetcode/tree/master/0229-majority-element-ii) |
 | [0905-sort-array-by-parity](https://github.com/visheshp5/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/visheshp5/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/visheshp5/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -80,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/visheshp5/Leetcode/tree/master/0229-majority-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/visheshp5/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/visheshp5/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/visheshp5/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/visheshp5/Leetcode/tree/master/0229-majority-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/visheshp5/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
@@ -115,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/visheshp5/Leetcode/tree/master/0069-sqrtx) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/visheshp5/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
